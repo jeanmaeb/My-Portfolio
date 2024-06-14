@@ -1292,3 +1292,6 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+.education h4, .skills h4 {
+    margin-bottom: 5px; /* Adjust this value as needed */
+}
